@@ -1,0 +1,14 @@
+UI 
+Install anguler CLI (NPM)
+install http-server(NPM)
+CMD > ng builld
+cmd> http-server (in folder Path)
+
+API 
+install dotnet core
+run exe
+
+update main.js file API url
+update main.map js file
+
+
